@@ -6,9 +6,9 @@
     <body>
         <?php
         echo "<h2>Selamat datang di Praktikum PWI</h2><br/>";
-        echo "Hari ini praktikum : \"Sintaks Dasar PHP\"";
-        echo "Nama : \"nama_praktikan\"";
-        echo "NIM : \"nim_praktikan\"";
+        echo "Hari ini praktikum : \"Sintaks Dasar PHP\"<br/>";
+        echo "Nama : \"Mitslina\"<br/>";
+        echo "NIM : \"24060121130068\"<br/>";
         ?>
     </body>
 </html>
