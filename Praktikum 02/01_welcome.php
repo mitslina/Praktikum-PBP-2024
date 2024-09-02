@@ -7,8 +7,8 @@
         <?php
         echo "<h2>Selamat datang di Praktikum PWI</h2><br/>";
         echo "Hari ini praktikum : \"Sintaks Dasar PHP\"<br/>";
-        echo "Nama : \"Mitslina\"<br/>";
-        echo "NIM : \"24060121130068\"<br/>";
+        echo "Nama : \"nama praktikan\"<br/>";
+        echo "NIM : \"nim praktikan\"<br/>";
         ?>
     </body>
 </html>
