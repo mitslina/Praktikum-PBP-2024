@@ -54,5 +54,6 @@
     echo 'harga = '.$harga.'<br />';
 
     // VARIABEL SUPER GLOBAL*******************************************
+    echo '<br />VARIABEL SUPER GLOBAL<br />';
     echo htmlentities($_SERVER["PHP_SELF"]);
 ?>
